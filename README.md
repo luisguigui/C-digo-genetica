@@ -34,9 +34,6 @@ Clone este repositório:
 
 Bash 
 
-git clone https://github.com/seu-usuario/mendel-genetics-pro.git 
- 
-
 Instale as dependências necessárias: 
 
 Bash 
